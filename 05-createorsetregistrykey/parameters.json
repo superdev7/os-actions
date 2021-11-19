@@ -1,0 +1,21 @@
+[{
+		"Name": "Operation",
+		"Type": 0,
+		"IsOptional": false
+	},
+	{
+		"Name": "RegistryPath",
+		"Type": 0,
+		"IsOptional": false
+	},
+	{
+		"Name": "KeyName",
+		"Type": 0,
+		"IsOptional": false
+	},
+	{
+		"Name": "KeyValue",
+		"Type": 0,
+		"IsOptional": false
+	}
+]

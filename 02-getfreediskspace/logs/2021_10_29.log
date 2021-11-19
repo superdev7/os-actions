@@ -1,0 +1,22 @@
+[10/29/2021 17:2:47]#  runway
+[10/29/2021 17:2:47]#  -------------------------------------------
+[10/29/2021 17:2:47]#  Version: 1.0
+[10/29/2021 17:2:47]#  (c)2020-2021 Runway Software, Inc.
+[10/29/2021 17:2:47]#  -------------------------------------------
+[10/29/2021 17:2:47]Checking version...
+[10/29/2021 17:2:47][ curlSendRequestInternal enter with url api/v2/content/public/info?key=runway&platform=2 ]
+[10/29/2021 17:2:48][ curlSendRequestInternal returning code 200 ]
+[10/29/2021 17:2:48]curl curlSendRequestInternal returned code 200 body {"mD5":"4171670F306D11412FF5D79C0DDBB60B","contentType":"application/octet-stream","length":4702736}
+[10/29/2021 17:2:48]Version is up to date.
+[10/29/2021 17:2:48]Specified build manifest './filedelete/manifest.txt' does not exist.
+[10/29/2021 17:3:3]#  runway
+[10/29/2021 17:3:3]#  -------------------------------------------
+[10/29/2021 17:3:3]#  Version: 1.0
+[10/29/2021 17:3:3]#  (c)2020-2021 Runway Software, Inc.
+[10/29/2021 17:3:3]#  -------------------------------------------
+[10/29/2021 17:3:3]Checking version...
+[10/29/2021 17:3:3][ curlSendRequestInternal enter with url api/v2/content/public/info?key=runway&platform=2 ]
+[10/29/2021 17:3:4][ curlSendRequestInternal returning code 200 ]
+[10/29/2021 17:3:4]curl curlSendRequestInternal returned code 200 body {"mD5":"4171670F306D11412FF5D79C0DDBB60B","contentType":"application/octet-stream","length":4702736}
+[10/29/2021 17:3:4]Version is up to date.
+[10/29/2021 17:3:4]Build failed: Failed to process input file: '.\default.apt'

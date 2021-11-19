@@ -1,0 +1,12 @@
+[
+	{
+		"Name": "KillProcessBy",
+		"Type": 0,
+		"IsOptional": false
+	},
+	{
+		"Name": "Value",
+		"Type": 0,
+		"IsOptional": false
+	}
+]

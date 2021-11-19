@@ -1,0 +1,5 @@
+{
+	"Description": "Kill a process by name, pid, user account, file path",
+	"Language": "Python",
+	"Tags": []
+}
